@@ -15,7 +15,7 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 ### 🔍 Reconnaissance & Threat Analysis
 - 🌐 *Footprinting* – Passive and active info gathering
 - 🐟 *Phishing Email Analysis* – Identifying spoofed domains, headers, and payloads
-- 🧫 *Vulnerability Assessment* – Using tools like OpenVAS, Nessus, and Nmap
+- 🧫 *Vulnerability Assessment* – Using tools like Nessus, and Nmap
 
 ### 🚨 Threat Detection & Monitoring
 - 📊 *SIEM Setup with Wazuh* – Centralized log analysis and alerting
