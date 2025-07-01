@@ -50,7 +50,7 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 | cloud-home-lab | Building a cloud-based home lab for cybersecurity practice | [View Repo](#) |
 | footprinting-techniques | Info gathering via open-source intelligence and active scanning | [View Repo](#) |
 | vulnerability-assessment | Scan and assess network vulnerabilities using security tools  https://github.com/Temilohlar/Temilohlar/blob/577f7bd25ebbfa8996a4bf6c87e3512ce4feb8fd/Vulnerablility%20Asessment%20Scan%20Report%20on%20a%20windows%20machine%20Using%20Nmap%20and%20Nessus%20%20-%20Temilola.pdf) |
-| phishing-email-analysis | Analyzing phishing emails and spotting key red flags | [View Repo](#) |
+| phishing-email-analysis | Analyzing phishing emails and spotting key red flags | https://github.com/Temilohlar/Temilohlar/blob/main/Phishing%20Email%20Analysis%20Report%20-Temilola.pdf |
 | wazuh-siem-lab | End-to-end guide for setting up Wazuh SIEM | [View Repo](#) |
 | elastic-siem-setup | Configuring Elastic Stack for threat hunting | [View Repo](#) |
 | suricata-ids-lab | Step-by-step IDS setup using Suricata | [View Repo](#) |
