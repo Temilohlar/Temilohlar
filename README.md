@@ -15,7 +15,7 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 ### 🔍 Reconnaissance & Threat Analysis
 - 🌐 *Footprinting* – Passive and active info gathering
 - 🐟 *Phishing Email Analysis* – Identifying spoofed domains, headers, and payloads
-- 🧫 *Vulnerability Assessment* – Using tools like Nessus, and Nmap
+- 🧫 *Vulnerability Assessment* – Using tools like Nessus and Nmap
 
 ### 🚨 Threat Detection & Monitoring
 - 📊 *SIEM Setup with Wazuh* – Centralized log analysis and alerting
@@ -35,9 +35,9 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 ## 🧰 Tools & Skills
 
 - 🖥 VirtualBox, VMware, AWS Free Tier
-- 🧪 Wireshark, Nmap, Metasploit
-- 🔐 Wazuh, Suricata, Elastic Stack
-- 🐧 Linux, macOS, Windows
+- 🧪 Wireshark, Nmap, Nessus, Nikto, sqlmap, Metasploit
+- 🔐 Wazuh, Suricata, Elastic Stack, Splunk
+- 🐧 Kali Linux, macOS, Windows server, Ubuntu, pfsense
 - 📄 Markdown, Git, GitHub
 
 ---
@@ -47,11 +47,21 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 | Project | Description | Link |
 |--------|-------------|------|
 | virtual-home-lab | Setting up a local cyber lab on macOS/Windows | https://github.com/Temilohlar/Setting-up-virtual-home-lab |
+| ad-deployment | installing and hardening Active Directory | [view Repo](#). |
+| ad-enum-privesc | Enumerating and escalating privileges in AD | [view Repo](#) |
+| security-policy-dev | Crafting AUP, password, and ACL policies | [view Repo](#) |
 | cloud-home-lab | Building a cloud-based home lab for cybersecurity practice | [View Repo](#) |
 | footprinting-techniques | Info gathering via open-source intelligence and active scanning | [View Repo](#) |
-| vulnerability-assessment | Scan and assess network vulnerabilities using security tools  https://github.com/Temilohlar/Temilohlar/blob/577f7bd25ebbfa8996a4bf6c87e3512ce4feb8fd/Vulnerablility%20Asessment%20Scan%20Report%20on%20a%20windows%20machine%20Using%20Nmap%20and%20Nessus%20%20-%20Temilola.pdf) |
-| phishing-email-analysis | Analyzing phishing emails and spotting key red flags |https://github.com/Temilohlar/Temilohlar/blob/main/Phishing%20Email%20Analysis%20Report%20-Temilola.pdf|
+| vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | https://github.com/Temilohlar/Temilohlar/blob/577f7bd25ebbfa8996a4bf6c87e3512ce4feb8fd/Vulnerablility%20Asessment%20Scan%20Report%20on%20a%20windows%20machine%20Using%20Nmap%20and%20Nessus%20%20-%20Temilola.pdf) |
+|network-monitoring | security onion and Splunk dashboards | [view Repo](#) |
+|risk-assessment | CIA impact mapping and risk matrix | [view Repo](#) |
+|Mitre-threat-hunt | ATT&CK-aligned threat hunting scripts |[view Repo](#) |
+| phishing-email-forensics |Email header and domain analysis toolkits |https://github.com/Temilohlar/Temilohlar/blob/main/Phishing%20Email%20Analysis%20Report%20-Temilola.pdf|
+| Phishing-simulation |Lab-based phishing campaign and metrics |[view Repo](#)
+| linux-permissions-audit | identifying world-writable and SUID files | [view Repo](#) |
 | wazuh-siem-lab | End-to-end guide for setting up Wazuh SIEM | [View Repo](#) |
+| sqli-ddos-sim | SQLi exploitation and DDoS alert tuning |[view Repo](#). | 
+| malware-analysis | static and dynamic malware triage | [view Repo](#). |
 | elastic-siem-setup | Configuring Elastic Stack for threat hunting | [View Repo](#) |
 | suricata-ids-lab | Step-by-step IDS setup using Suricata | [View Repo](#) |
 | honeypot-deployment | Deceptive traps to attract and analyze cyber attackers | [View Repo](#) |
