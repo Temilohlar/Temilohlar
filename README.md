@@ -54,7 +54,7 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 | footprinting-techniques | Info gathering via open-source intelligence and active scanning | [View Repo](#) |
 | vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | https://github.com/Temilohlar/Temilohlar/blob/577f7bd25ebbfa8996a4bf6c87e3512ce4feb8fd/Vulnerablility%20Asessment%20Scan%20Report%20on%20a%20windows%20machine%20Using%20Nmap%20and%20Nessus%20%20-%20Temilola.pdf) |
 |network-monitoring | security onion and Splunk dashboards | [view Repo](#) |
-|risk-assessment | CIA impact mapping and risk matrix | (https://github.com/Temilohlar/Temilohlar/blob/main/Risk%20Assessment%20Report.pdf) |
+|risk-assessment | CIA impact mapping and risk matrix | (https://github.com/Temilohlar/Temilohlar/blob/main/Risk%20Assessment.pdf)|
 |Mitre-threat-hunt | ATT&CK-aligned threat hunting scripts |[view Repo](#) |
 | phishing-email-forensics |Email header and domain analysis toolkits |https://github.com/Temilohlar/Temilohlar/blob/main/Phishing%20Email%20Analysis%20Report%20-Temilola.pdf|
 | Phishing-simulation |Lab-based phishing campaign and metrics |[view Repo](#)
