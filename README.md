@@ -60,7 +60,7 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 | Phishing-simulation |Lab-based phishing campaign and metrics |[view Repo](#)
 | linux-permissions-audit | identifying world-writable and SUID files | [view Repo](#) |
 | wazuh-siem-lab | End-to-end guide for setting up Wazuh SIEM | [View Repo](#) |
-| sqli-ddos-sim | SQLi exploitation and DDoS alert tuning |[view Repo](#). | 
+| sql injection | authorize and purging the database |[view Repo](#). | 
 | malware-analysis | static and dynamic malware triage | [view Repo](#). |
 | elastic-siem-setup | Configuring Elastic Stack for threat hunting | [View Repo](#) |
 | suricata-ids-lab | Step-by-step IDS setup using Suricata | [View Repo](#) |
